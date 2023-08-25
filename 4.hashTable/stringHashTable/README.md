@@ -1,0 +1,4 @@
+Run command
+
+- make
+- ./hashTable
